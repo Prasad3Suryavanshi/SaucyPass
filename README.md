@@ -83,13 +83,6 @@ Guarantees:
 
 ✅ Resistance to dictionary attacks
 
-🛠️ Development
-bash
-git clone https://github.com/yourusername/secret-sauce
-cd secret-sauce
-pip install -e .
-Run Tests:
-
 bash
 python -m pytest tests/
 🍝 Recipe Book
